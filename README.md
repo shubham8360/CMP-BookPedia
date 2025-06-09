@@ -35,8 +35,8 @@ This project uses **[OpenLibrary API](https://openlibrary.org/)** — a free and
 
 ## 🖼️ Screenshots
 
-<img src="media/1.png" width="1080" alt="Home Screen" />
-<img src="media/2.png" width="1080" alt="Search Screen" />
+<img src="media/1.png" width="300" alt="Home Screen" />
+<img src="media/2.png" width="300" alt="Search Screen" />
 
 ---
 
