@@ -52,7 +52,7 @@ This project uses **[OpenLibrary API](https://openlibrary.org/)** — a free and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/BookPedia.git
+   git clone https://github.com/shubham8360/CMP-BookPedia.git
 
 👨‍💻 Developer
 Developed by Shubham Kumar
