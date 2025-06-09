@@ -43,8 +43,8 @@ accessing book data.
 <img src="media/2.png" width="300" alt="Detailed Screen" />
 </div>
 <div style="display: flex; gap: 10px;">
- <img src="media/1.png" width="300" alt="Home Screen" />
-<img src="media/2.png" width="300" alt="Detailed Screen" />
+ <img src="media/3.png" width="300" alt="Home Screen" />
+<img src="media/4.png" width="300" alt="Detailed Screen" />
 </div>
 
 
